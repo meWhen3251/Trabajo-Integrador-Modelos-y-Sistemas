@@ -1,4 +1,4 @@
-# Investigación – Modelos y Sistemas (7.º año)
+# Investigación – Modelos y Sistemas
 
 ## Primera parte: Herramientas de análisis y diseño de sistemas
 
