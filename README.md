@@ -56,6 +56,7 @@ Cada tema es un apartado independiente y breve:
 
 Investigacion_Modelos_y_Sistemas.docx: Trabajo de investigación completo en formato Word.
 README.ME: Este archivo, con la descripción general del proyecto.
+Presentación_Modelos_Y_Sistemas.pptx: Archivo de presentación de PowerPoint
 
 ## Fuentes
 
