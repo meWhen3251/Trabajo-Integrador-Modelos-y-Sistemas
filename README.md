@@ -54,13 +54,10 @@ Cada tema es un apartado independiente y breve:
 
 ## Contenido del repositorio
 
-| Archivo | Descripción |
-|---|---|
-| `Investigacion_Modelos_y_Sistemas.docx` | Trabajo de investigación completo en formato Word. |
-| `README.md` | Este archivo, con la descripción general del proyecto. |
+Investigacion_Modelos_y_Sistemas.docx: Trabajo de investigación completo en formato Word.
+README.ME: Este archivo, con la descripción general del proyecto.
 
 ## Fuentes
 
-- Bibliografía especializada en ingeniería de software, análisis de sistemas y bases de datos (Kendall y Kendall, Pressman, Sommerville, Silberschatz, entre otros).
-- Artículos de Wikipedia sobre cada tema, citados en las referencias del documento.
-- Apuntes de la materia sobre documentación técnica y planificación de proyectos.
+- Artículos de Wikipedia sobre cada tema y páginas web que informan los temas abordados. 
+- Apuntes de la materia. 
